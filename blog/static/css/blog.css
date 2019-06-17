@@ -1,12 +1,10 @@
 h1 a, h2 a {
-    color: #C25100;
+    color: #39CCCC;
     font-family: 'Lucida Calligraphy';
 }
-body {
-    padding-left: 15px;
-}
+
 .page-header {
-    background-color: #C25100;
+    background-color: #111111;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -26,7 +24,7 @@ h1, h2, h3, h4 {
 }
 
 .date {
-    color: #828282;
+    color: #AAAAAA;
 }
 
 .save {
@@ -38,7 +36,7 @@ h1, h2, h3, h4 {
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
-    color: #ffffff;
+    color: #39CCCC;
     float: right;
     font-size: 26pt;
     margin-right: 20px;
